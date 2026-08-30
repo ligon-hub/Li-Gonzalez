@@ -1,2 +1,3 @@
-# Li-Gonzalez
-## Profesor Universitario en Informática
+# Li Gonzalez
+## Profesora Universitario en Informática
+## San Salvador de Jujuy
